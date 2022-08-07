@@ -1,9 +1,0 @@
-some more linux commands...
-ls command.
-cd command.
-cp command.
-mv command.
-rm command.
-mkdir command.
-rmdir command.
-chown command.
