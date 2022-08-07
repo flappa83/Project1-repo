@@ -4,16 +4,7 @@
 
 #Hi ken, we will be writing some shell scripts.
 
-<<com 
-Ken's Task -  just for practice purpose i have sent you a small task to write a script that will list even numbers
-from 2 .. 20! with 2 and 20 inclusive.
-That means 
 
-2, 4, 6, 8 .....20!
-
-I already did odd numbers between 1 and 21.check it below
-
-com
 
 
 #........................................................................
@@ -34,6 +25,18 @@ do
 	echo $i
 done
 
+<<com 
 
 
-Please write you code here 
+Ken's Task -  just for practice purpose i have sent you a small task to write a script that will list even numbers
+from 2 .. 20! with 2 and 20 inclusive.
+That means 
+
+2, 4, 6, 8 .....20!
+
+I already did odd numbers between 1 and 21.check it below
+
+com
+
+
+Please write your code here 
