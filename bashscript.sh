@@ -34,7 +34,7 @@ That means
 
 2, 4, 6, 8 .....20!
 
-I already did odd numbers between 1 and 21.check it below
+I already did odd numbers between 1 and 21.check it above
 
 com
 
