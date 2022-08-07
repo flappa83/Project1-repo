@@ -31,3 +31,12 @@ Now let me commit and see how to fetch that back to local...
 it's quite interesting, I still need to understand how this works better.
 commit and push...
 
+some more linux commands...
+ls command.
+cd command.
+cp command.
+mv command.
+rm command.
+mkdir command.
+rmdir command.
+chown command.
