@@ -21,3 +21,8 @@ Hello my friend, how come you know so many linux commands?
 I had a problem going into this file at first because of how you named it :(
 I really see that you are a guru in linux
 Let me stop here for now and try commiting....not murder of course :)
+
+
+Now that the above lines were successfully added in the CLI,
+I will be adding these lines in the GUI
+Now let me commit and see how to fetch that back to local...
