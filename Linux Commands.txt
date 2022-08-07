@@ -40,3 +40,7 @@ rm command.
 mkdir command.
 rmdir command.
 chown command.
+
+i dont know so many commands, just trying to learn, am just like you bro...just learning!
+
+Thanks for the compliment any way.
