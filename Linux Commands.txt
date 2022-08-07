@@ -17,4 +17,7 @@ tar
 
 ken...you can add yours ...------>
 
-
+Hello my friend, how come you know so many linux commands?
+I had a problem going into this file at first because of how you named it :(
+I really see that you are a guru in linux
+Let me stop here for now and try commiting....not murder of course :)
