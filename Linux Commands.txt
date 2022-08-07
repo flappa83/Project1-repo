@@ -1,0 +1,20 @@
+6th Aug 2022
+10pm mountain time
+--------------------------------------------------
+some linux commands you may know ....
+
+cd
+diff
+rm -r
+mkdir
+rm-dir
+awk
+sed
+touch
+gzip
+gunzip
+tar
+
+ken...you can add yours ...------>
+
+
