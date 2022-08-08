@@ -12,8 +12,8 @@ do
 	echo $i
 done
 
-echo " "
-echo " "
+echo
+echo
 #........................................................................
 #Another way of doing it
 #........................................................................
@@ -23,8 +23,8 @@ do
 	echo $i
 done
 
-echo " "
-echo " "
+echo
+echo
 
 <<com 
 Ken's Task -  just for practice purpose i have sent you a small task to write a script that will list even numbers
@@ -49,8 +49,8 @@ echo $i
 i=`expr $i + 2`
 done
 
-echo " "
-echo " "
+echo
+echo
 #............................................................
 #using the for loop
 
@@ -60,8 +60,8 @@ do
 echo $i
 done
 
-echo " "
-echo " "
+echo
+echo
 #..............................................................
 #your second method was interesting, lemme try that
 
@@ -71,5 +71,5 @@ do
 echo $i
 done
 
-echo " "
+echo
 echo ".........script done!........"
