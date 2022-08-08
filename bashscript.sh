@@ -4,9 +4,6 @@
 
 #Hi ken, we will be writing some shell scripts.
 
-
-
-
 #........................................................................
 #My Task: Odd numbers between 1 and 21 (with 1 and 21 inclusive)
 #........................................................................
@@ -25,8 +22,10 @@ do
 	echo $i
 done
 
-<<com 
+echo " "
+echo " "
 
+<<com 
 
 Ken's Task -  just for practice purpose i have sent you a small task to write a script that will list even numbers
 from 2 .. 20! with 2 and 20 inclusive.
@@ -39,4 +38,42 @@ I already did odd numbers between 1 and 21.check it above
 com
 
 
-Please write your code here 
+#..........................................................
+
+#08-aug-2022 
+
+#this part of the script displays even numbers from 2 to 20
+
+#using a while loop...
+
+echo "even numbers 1 - 20...trial 1"
+i=2
+while [ $i -le 20 ]
+do
+echo $i
+i=`expr $i + 2`
+done
+
+#............................................................
+#using the for loop
+echo " "
+echo " "
+
+echo "even numbers 1 - 20...trial 2"
+for (( i=2;i<=20;i+=2 ))
+do
+echo $i
+done
+
+#..............................................................
+#your second method was interesting, lemme try that
+echo " "
+echo " "
+
+echo "even numbers 1 - 20...trial 3"
+for i in {2..21..2}
+do
+echo $i
+done
+
+echo ".........script done!........"
