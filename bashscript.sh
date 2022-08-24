@@ -71,5 +71,7 @@ do
 echo $i
 done
 
+#This is all we have done so far
+
 echo
 echo ".........script done!........"
